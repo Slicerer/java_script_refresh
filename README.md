@@ -1,2 +1,2 @@
-# Prog-23_07_17-project
+# javascript-refresh
 Exercisse a remettre
